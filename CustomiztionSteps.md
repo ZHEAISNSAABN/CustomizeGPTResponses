@@ -180,8 +180,4 @@ Your custom GPT is not static—think of it as a living document of coding pract
 ---
 
 **Next Steps**:  
-- Share this guide with your colleagues so they understand how to set up their own GPT instances aligned with team standards.
 - Start small by adding a few examples and refine as you go.
-- Consider creating a shared library of examples and System Messages that everyone can contribute to.
-
-If you need assistance with the initial configuration or want to review the first set of examples, feel free to ask for help.
