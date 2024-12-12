@@ -1,7 +1,3 @@
-Below is a concise, repository-ready description you can include in your `README.md` file on GitHub.
-
----
-
 # Configure and Use OpenAI’s **Create GPT** for .NET Best Practices
 
 This repository provides a comprehensive guide on how to configure and customize OpenAI’s **Create GPT** feature to align with your team’s .NET coding standards and architectural principles. By following the included steps and examples, you can ensure the model consistently produces high-quality, maintainable, and scalable .NET code.
